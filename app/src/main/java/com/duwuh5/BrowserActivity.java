@@ -55,11 +55,7 @@ public class BrowserActivity extends Activity implements GestureDetector.OnGestu
         img_browser_back.setOnClickListener(this);
         img_browser_next.setOnClickListener(this);
         initweb();
-        //        url = "http://www.duwu.me";
-        //        url = "http://www.jd.com";
-        //        url = "http://xuanfengge.com/demo/201409/love";
         url = "file:///android_asset/index.html";
-        //        url = "http://www.huxiu.com";
         if (!TextUtils.isEmpty(url)) {
             mWebView.loadUrl(url);
         }
