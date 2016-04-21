@@ -14,3 +14,7 @@
 ![image](https://github.com/qiushi123/H5Game/blob/master/images/1.jpg?raw=true)
 
 ![image](https://github.com/qiushi123/H5Game/blob/master/images/2.jpg?raw=true)
+
+
+我的博客地址
+http://blog.csdn.net/qiushi_1990/article/details/51211797
